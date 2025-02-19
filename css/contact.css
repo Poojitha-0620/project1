@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.color {
+        background: radial-gradient(rgb(48, 12, 12), azure);
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .ContactUs,
+    .time {
+        background: radial-gradient(azure, rgb(48, 12, 12));
+        color: rgb(48, 12, 12);
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+
+    .icons-cont i {
+        font-size: 1.5rem;
+        margin: 5px;
+        color: rgb(48, 12, 12);
+    }
+
+    .icons-cont i:hover {
+        color: #d2691e; /* Chocolate-themed hover color */
+    }

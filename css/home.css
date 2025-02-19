@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+.carousel-item img,video{
+    height: 453px;
+    object-fit: cover;
+   
+  }
+  .carousel-item i{
+    color: aliceblue;
+  }
+  .carousel-item p{
+    color:white;
+  }
+  .card{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+  .card  video{
+    height: 300px;
+  }
+  .card-body {
+    background: url(https://img.freepik.com/free-vector/gradient-glassmorphism-background_23-2149447863.jpg?ga=GA1.1.856067984.1710562901&semt=ais_hybrid);
+    object-fit: cover;
+  }

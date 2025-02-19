@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+.navbar{
+    background: url(../assets/bg1-removebg-preview.png );
+    background-size: 212px;
+    object-fit: cover;
+    background-repeat:repeat-x;
+    }
+   

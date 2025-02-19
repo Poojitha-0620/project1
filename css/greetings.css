@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+.greeting-section {
+    background-color: rgb(48, 12, 12);
+    color: #fff;
+    padding: 50px 15px;
+  }
+  .greeting-section h1,
+  .greeting-section h3 {
+    text-align: center;
+  }
+  .greeting-section .feature-list li,
+  .greeting-section .benefit-list li {
+    margin-bottom: 10px;
+  }
+  .greeting-section .content-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
